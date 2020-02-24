@@ -108,4 +108,5 @@ footer p {
     }
     .lose {
       transform: scale(0.9);
+      opacity: 0.5;
     }
